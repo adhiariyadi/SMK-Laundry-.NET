@@ -1,0 +1,14 @@
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.vbprojAssemblyReference.cache
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.Resources.resources
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.vbproj.GenerateResource.cache
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.vbproj.CoreCompileInputs.cache
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\bin\Debug\SMK-Laundry.exe.config
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\bin\Debug\SMK-Laundry.exe
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\bin\Debug\SMK-Laundry.pdb
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\bin\Debug\SMK-Laundry.xml
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.exe
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.xml
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.pdb
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManageEmployee.resources
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManagePackage.resources
+C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManageService.resources
