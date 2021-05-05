@@ -36,7 +36,7 @@ Aplikasi SMK Laundry yang dibuat oleh <a href="https://github.com/adhiariyadi"> 
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/adhiariyadi/SMK-Laundry-.NET
+git clone https://github.com/adhiariyadi/SMK-Laundry-NET
 ```
 
 2. **Import database `laundry.sql`**
