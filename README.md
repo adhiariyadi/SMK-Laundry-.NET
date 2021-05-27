@@ -39,7 +39,13 @@ Web SMK Laundry yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi 
 git clone https://github.com/adhiariyadi/CV-OKE-CELL-.NET.git
 ```
 
-2. **Import database `penjualan.sql`**
+2. **Create database and Import data dengan excel `master-data.xlsx`**
+
+3. **Ubah koneksi database**
+
+```bash
+Data Source={server name};Initial Catalog={name database};Integrated Security=True
+```
 
 ## Author
 

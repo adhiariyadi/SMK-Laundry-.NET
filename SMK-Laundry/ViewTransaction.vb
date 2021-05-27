@@ -6,7 +6,7 @@ Public Class ViewTransaction
     Dim query, deposit, header, prepaid As String
 
     Sub koneksi()
-        conn = New SqlConnection("Data Source=DESKTOP-88BF2P2;Initial Catalog=laundry;Integrated Security=True")
+        conn = New SqlConnection("Data Source=DESKTOP-PQDG5SB;Initial Catalog=laundry;Integrated Security=True")
         If conn.State = ConnectionState.Closed Then conn.Open()
     End Sub
 

@@ -12,3 +12,17 @@ C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj
 C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManageEmployee.resources
 C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManagePackage.resources
 C:\Users\RPL-2\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManageService.resources
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\bin\Debug\SMK-Laundry.exe.config
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\bin\Debug\SMK-Laundry.exe
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\bin\Debug\SMK-Laundry.pdb
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\bin\Debug\SMK-Laundry.xml
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.vbprojAssemblyReference.cache
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManageEmployee.resources
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManagePackage.resources
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.ManageService.resources
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK_Laundry.Resources.resources
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.vbproj.GenerateResource.cache
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.vbproj.CoreCompileInputs.cache
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.exe
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.xml
+C:\Users\didot\Documents\Visual Studio 2019\Projects\SMK-Laundry\SMK-Laundry\obj\Debug\SMK-Laundry.pdb

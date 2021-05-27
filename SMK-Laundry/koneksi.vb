@@ -1,6 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Module koneksi
-    Dim conn As SqlConnection = New SqlConnection("Data Source=DESKTOP-88BF2P2;Initial Catalog=laundry;Integrated Security=True")
+    Dim conn As SqlConnection = New SqlConnection("Data Source=DESKTOP-PQDG5SB;Initial Catalog=laundry;Integrated Security=True")
     Dim cmd As SqlCommand
     Dim da As SqlDataAdapter
     Dim dt As DataTable
