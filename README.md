@@ -2,7 +2,7 @@
 
 ## Apa itu SMK Laundry?
 
-Web SMK Laundry yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. **SMK Laundry adalah aplikasi laundry berbasis desktop yang di buat menggunakan vb.NET**
+Aplikasi SMK Laundry yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. **SMK Laundry adalah aplikasi laundry berbasis desktop yang di buat menggunakan vb.NET dan SQL SERVER**
 
 ## Fitur apa saja yang tersedia di SMK Laundry?
 
@@ -36,7 +36,7 @@ Web SMK Laundry yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi 
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/adhiariyadi/CV-OKE-CELL-.NET.git
+git clone https://github.com/adhiariyadi/SMK-Laundry-.NET.git
 ```
 
 2. **Create database and Import data dengan excel `master-data.xlsx`**
@@ -59,5 +59,5 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2020 Adhi Ariyadi.
+- Copyright © 2021 Adhi Ariyadi.
 - **SMK Laundry is open-sourced software licensed under the MIT license.**
