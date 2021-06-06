@@ -33,6 +33,7 @@ Partial Class ViewTransaction
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.Label4 = New System.Windows.Forms.Label()
+        Me.btnCetak = New System.Windows.Forms.Button()
         CType(Me.dgv, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
@@ -83,6 +84,7 @@ Partial Class ViewTransaction
         '
         Me.dgv.AllowUserToAddRows = False
         Me.dgv.AllowUserToDeleteRows = False
+        Me.dgv.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
         Me.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgv.Location = New System.Drawing.Point(8, 19)
         Me.dgv.Name = "dgv"
@@ -148,11 +150,21 @@ Partial Class ViewTransaction
         Me.Label4.TabIndex = 100
         Me.Label4.Text = "Search"
         '
+        'btnCetak
+        '
+        Me.btnCetak.Location = New System.Drawing.Point(764, 422)
+        Me.btnCetak.Name = "btnCetak"
+        Me.btnCetak.Size = New System.Drawing.Size(94, 33)
+        Me.btnCetak.TabIndex = 102
+        Me.btnCetak.Text = "Cetak"
+        Me.btnCetak.UseVisualStyleBackColor = True
+        '
         'ViewTransaction
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(868, 425)
+        Me.ClientSize = New System.Drawing.Size(868, 467)
+        Me.Controls.Add(Me.btnCetak)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.GroupBox2)
@@ -181,4 +193,5 @@ Partial Class ViewTransaction
     Friend WithEvents GroupBox2 As System.Windows.Forms.GroupBox
     Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
     Friend WithEvents Label4 As System.Windows.Forms.Label
+    Friend WithEvents btnCetak As Button
 End Class
